@@ -1,3 +1,18 @@
 h1
-{color:blue;
+{color:rgba(155, 155, 248, 0.884);
+ text-decoration: double;  
+ text-align: center;
+ 
+}
+h2 {
+    font-style: italic;
+    text-align: center;
+    color: blue;
+
+}
+p{
+    color:coral;
+}
+body{
+    background-color: rgb(78, 2, 17);
 }
